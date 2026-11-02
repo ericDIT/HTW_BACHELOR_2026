@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+backend/.env
+.idea/
+.vscode/
+.env
+node_modules/
+dist/
+pgdata/
+*.dump
+data_lake/

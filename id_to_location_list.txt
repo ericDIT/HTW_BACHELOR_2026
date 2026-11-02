@@ -1,0 +1,16 @@
+S HALENSEE:
+id="A=1@O=S Halensee (Berlin)@X=13290147@Y=52496698@U=86@L=900040101@p=1772151637@"
+extId="900040101"
+name="S Halensee (Berlin)"
+lon="13.290147"
+lat="52.496698"
+
+S SCHÖNEWEIDE:
+id="A=1@O=S Schöneweide Bhf (Berlin)@X=13510149@Y=52454610@U=86@L=900192001@p=1772151637@"
+extId="900192001"
+name="S Schöneweide Bhf (Berlin)"
+lon="13.510149"
+lat="52.45461"
+
+S WESTKREUZ:
+id="A=1@O=S Westkreuz (Berlin)@X=13283036@Y=52501148@U=86@L=900024102@p=1776640808@"
